@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "FindWeather",
-    "slug": "FindWeather",
+    "slug": "find-weather",
+    "owner": "anuragdev03",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
